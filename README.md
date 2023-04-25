@@ -1,2 +1,7 @@
-# Practice-HTML-2.1
-Sprint 1: Web Development Foundations Build static websites using HTML and CSS, and learn how to make them responsive. Apply linting, and manage projects via git repository
+# Practice-HTML
+1. Headings
+2. Anchor tag link to top and bottom of a page
+3. Image as hyperlink
+4. Tables with rowspan and colspan
+
+see more project exercises @ https://esvillamor.github.io/index.html
